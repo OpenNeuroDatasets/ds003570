@@ -1,0 +1,18 @@
+{
+  "InstitutionAddress": "550W 120th Street, New York, NY 10027, USA",
+  "InstitutionName": "Columbia University, NY, USA",
+  "InstitutionalDepartmentName": "Laboratory for Intelligent Imaging and Neural Computing, Department of Biomedical Engineering",
+  "PowerLineFrequency": 60,
+  "ManufacturersModelName": "Biosemi - ActiveTwo",
+  "EEGChannelCount": 64,
+  "TaskName": "AuditoryOddballChords",
+  "MiscChannelCount": 64,
+  "EEGReference": "common",
+  "RecordingType": "continuous",
+  "RecordingDuration": 2449,
+  "SamplingFrequency": 2048,
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "EMGChannelCount": 0,
+  "SoftwareFilters": "n/a"
+}
